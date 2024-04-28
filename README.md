@@ -1,15 +1,3 @@
 # webpack-ESLint-prettier-template
 
-Front-end template repository.
-
-DEPENDENCIES
-webpack
-webpack-cli
-
-Webpack modules:
-Development:
-style-loader
-css-loader
-html-webpack-plugin
-webpack-dev-server
-webpack-merge
+Front-end pre configured template repository to quickly start developing projects using webpack, ESLint and prettier.
