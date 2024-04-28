@@ -2,10 +2,14 @@
 
 Front-end template repository.
 
-INCLUDES
+DEPENDENCIES
+webpack
+webpack-cli
+
 Webpack modules:
 Development:
 style-loader
 css-loader
 html-webpack-plugin
 webpack-dev-server
+webpack-merge
