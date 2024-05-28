@@ -1,4 +1,4 @@
-# webpack-frontend.template
+# webpack-frontend-template
 
 Front-end pre configured template repository to quickly start developing projects using webpack, ESLint, Prettier, Babel and Jest.
 
